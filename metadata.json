@@ -1,0 +1,7 @@
+{
+  "name": "VAIRAM AI",
+  "description": "A premium, ChatGPT-style conversational AI platform powered by Gemini 2.5, featuring a modern dark interface, Google authentication simulation, and smooth animations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
